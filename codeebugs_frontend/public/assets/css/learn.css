@@ -1,0 +1,75 @@
+.Practice{
+    margin-right: 0%;
+    float: right;
+}
+h2{
+    float: center;
+}
+
+.Top{
+    height: 800px;
+}
+
+.Player{
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+    padding-top: 0;
+}
+.column  {
+    float: left;
+    width: 50%;
+    height: 460px;
+}
+.left {
+    width:20%;
+    overflow-y: auto;
+}
+.right{
+    width:80%
+}
+
+.tutorial:after{
+    content: "";
+    display: table;
+    clear: both;
+    
+}
+.description{
+    position: relative;
+    left: 15px;
+    margin-top: 40px;
+    margin-bottom: 5px;
+}
+.desContent{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: x-large;
+    position: relative;
+    left: 15px;
+    line-height: 1.5;
+}
+
+.tutor {
+    position: relative;
+    float: right;
+    right: 20px;
+    margin-top: 40px;
+}
+
+.left a{
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+}
+
+.left a:hover{
+    background-color: #ccc;
+}
+
+
+.quizCard{
+    float: center;
+    height: 360px;
+}
+
+
